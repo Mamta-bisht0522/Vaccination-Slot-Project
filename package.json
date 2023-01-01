@@ -1,0 +1,25 @@
+{
+  "name": "vaccination-slot-project",
+  "version": "1.0.0",
+  "description": "\"vaccination app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamta-bisht0522/Vaccination-Slot-Project.git"
+  },
+  "author": "\"mamta bisht\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mamta-bisht0522/Vaccination-Slot-Project/issues"
+  },
+  "homepage": "https://github.com/Mamta-bisht0522/Vaccination-Slot-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.2",
+    "nodemon": "^2.0.20"
+  }
+}
