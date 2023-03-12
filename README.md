@@ -67,13 +67,3 @@ Evaluation Criteria:
 
 
 
-{
- 
-  "Name": "Dhreetiman Prasad",
-  "phoneNumber": "6200391420",
-  "password": "Lucifer@123",
-  "age": 24,
-  "pincode": 123451,
-  "aadhar": "5452 5864 8564",
- 
-}
